@@ -1,5 +1,5 @@
-- name: Why choose us?
-  link: /overview/
+- name: FAQ
+  link: /FAQ/
   new_window: false
   highlight: false
 - name: Contact
