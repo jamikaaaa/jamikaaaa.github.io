@@ -4,4 +4,7 @@
     - name: FAQ
       link: /faq/
     - name: Contact
-      link: /contact/
+      link: 'mailto:support@borderlessparcel.com'
+- links:
+    - name: Est. 2019
+      link:
