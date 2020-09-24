@@ -6,3 +6,7 @@
   link: /sign-up/
   new_window: true
   highlight: true
+- name: Contact
+  link: 'mailto:support@borderlessparcel.com'
+  new_window: true
+  highlight: false
