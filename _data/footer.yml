@@ -3,8 +3,8 @@
       link: /
     - name: FAQ
       link: /faq/
-    - name: Contact
-      link: 'mailto:support@borderlessparcel.com'
 - links:
     - name: Meet the team
       link: /about/
+    - name: Contact
+      link: 'mailto:support@borderlessparcel.com'
