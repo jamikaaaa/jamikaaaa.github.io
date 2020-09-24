@@ -3,6 +3,6 @@
   new_window: false
   highlight: false
 - name: Sign up
-  link:
+  link: /sign-up/
   new_window: true
   highlight: true
