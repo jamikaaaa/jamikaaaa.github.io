@@ -2,10 +2,6 @@
   link: /faq/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
 - name: Sign up
   link:
   new_window: true
