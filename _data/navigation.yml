@@ -2,11 +2,11 @@
   link: /faq/
   new_window: false
   highlight: false
-- name: Sign up
-  link: /sign-up/
-  new_window: true
-  highlight: true
 - name: Contact
   link: 'mailto:support@borderlessparcel.com'
   new_window: true
   highlight: false
+- name: Sign up
+  link: /sign-up/
+  new_window: true
+  highlight: true
