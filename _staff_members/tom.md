@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
-position: CTO
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter: CloudCannonApp
-blurb: Tom likes to travel and has visited over 50 countries.
+name: Lidia Morgan
+position: Shopper Outreach
+image_path: /uploads/team-4.jpg
+twitter:
+blurb: I love to travel; I've traveled 15 countries so far... 47 to go ;)
 ---
