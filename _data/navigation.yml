@@ -8,5 +8,5 @@
   highlight: false
 - name: Sign up
   link: /sign-up/
-  new_window: true
+  new_window: false
   highlight: true
