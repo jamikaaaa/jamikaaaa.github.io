@@ -1,9 +1,21 @@
 - links:
+    - name: >-
+        Borderless Parcel connects shoppers and forwarders to make the online
+        shopping experience hassle-free.
+      link:
+    - name: 'Louisville, KY 40203, United States'
+      link:
+    - name: +1 531 600 1720
+      link:
+    - name: support@borderlessparcel.com
+      link:
+    - name: www.borderlessparcel.com
+      link:
+- links:
     - name: Sign up
       link: /sign-up/
     - name: FAQ
       link: /faq/
-- links:
     - name: Meet the team
       link: /about/
     - name: Contact
